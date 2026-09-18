@@ -1,19 +1,16 @@
 ## Summary
 
-  <!-- Briefly describe what this PR changes and why. -->
+<!-- Briefly describe what this PR changes and why. -->
 
-  -
-  -
+## Testing
 
-  ## Testing
+<!-- Describe how the changes were verified. -->
 
-  <!-- Describe how the changes were verified. -->
+- [ ] Automated tests
+- [ ] Manual verification (when applicable)
 
-  - [ ] Automated tests
-  - [ ] Manual verification (when applicable)
+## Notes
 
-  ## Notes
+<!-- Remove this section if there is nothing noteworthy. -->
 
-  <!-- Remove this section if there is nothing noteworthy. -->
-
-  Closes #<issue-number>
+Closes #<issue-number>
